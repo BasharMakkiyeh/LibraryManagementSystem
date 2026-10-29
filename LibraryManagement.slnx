@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/LibraryManagementSystem/">
+    <Project Path="LibraryManagementSystem/LibraryManagement.csproj" />
+  </Folder>
+  <Project Path="LibraryManagement.Application/LibraryManagement.Application.csproj" />
+  <Project Path="LibraryManagement.Domain/LibraryManagement.Domain.csproj" />
+  <Project Path="LibraryManagement.Infrastructure/LibraryManagement.Infrastructure.csproj" />
+  <Project Path="LibraryManagement.Tests/LibraryManagement.Tests.csproj" />
+</Solution>
